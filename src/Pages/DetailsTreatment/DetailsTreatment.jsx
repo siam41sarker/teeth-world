@@ -80,7 +80,7 @@ const DetailsTreatment = () => {
         addToLs(dataInfo);
         send(import.meta.env.VITE_serviceKEY,import.meta.env.VITE_templateKey, templateParams)
             .then((response) => {
-                toast.success("Appointment booked! Confirmation email sent.",response.status, response.text, {
+                toast.success("Appointment booked! Confirmation email sent.", {
                     position: "top-center",
                     autoClose: 3000,
                     theme: "colored"

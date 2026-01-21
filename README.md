@@ -7,8 +7,7 @@ The platform is designed with a clean UI, responsive layout, and smooth user exp
 ---
 
 ## 🌐 Live Demo
-🔗 https://siam-teeth-world.netlify.app/
-
+🔗 https://teeth-wizard-website-5f645.web.app
 ---
 
 ## ✨ Features
