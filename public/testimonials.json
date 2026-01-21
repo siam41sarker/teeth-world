@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah Johnson",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop&crop=face",
+    "feedback": "Amazing experience! The staff was so friendly and professional. My teeth have never looked better!",
+    "date": "2025-12-15",
+    "rating": 5
+  },
+  {
+    "id": "2",
+    "name": "Michael Chen",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "feedback": "I was nervous about my first visit, but Dr. Smith made me feel completely at ease. Highly recommend!",
+    "date": "2025-12-10",
+    "rating": 5
+  },
+  {
+    "id": "3",
+    "name": "Emily Rodriguez",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    "feedback": "The whitening treatment exceeded my expectations. Professional service from start to finish.",
+    "date": "2025-11-28",
+    "rating": 4
+  },
+  {
+    "id": "4",
+    "name": "David Thompson",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+    "feedback": "Best dental clinic in town! Clean facilities and the latest technology. Worth every penny.",
+    "date": "2025-11-20",
+    "rating": 5
+  }
+]

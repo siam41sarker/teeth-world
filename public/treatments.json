@@ -1,0 +1,241 @@
+[
+  {
+    "id": "1",
+    "name": "Teeth Cleaning",
+    "description": "Professional deep cleaning to remove plaque and tartar buildup. Includes polishing for a brighter smile.",
+    "image": "https://i.ibb.co.com/Z1bB09C5/imgi-2-treatment-cleaning-DGuknr3-T.jpg",
+    "cost": 75,
+    "currency": "USD",
+    "duration": "2 hrs",
+    "requiresLoginToBook": true,
+    "whatToExpect": [
+      "Initial consultation and examination",
+      "Personalized treatment plan",
+      "Professional care by certified dentists",
+      "Follow-up care instructions"
+    ],
+    "category": "Preventive Care",
+    "popular": true
+  },
+  {
+    "id": "2",
+    "name": "Teeth Whitening",
+    "description": "Advanced whitening treatment to brighten your smile by several shades in just one session.",
+    "image": "https://i.ibb.co.com/BKGMLmZd/imgi-3-treatment-whitening-CRk-CRNJI.jpg",
+    "cost": 250,
+    "currency": "USD",
+    "duration": "1-2 hrs",
+    "requiresLoginToBook": true,
+    "whatToExpect": [
+      "Shade assessment",
+      "Professional whitening application",
+      "Immediate visible results",
+      "Post-treatment care advice"
+    ],
+    "category": "Cosmetic Dentistry"
+  },
+  {
+    "id": "3",
+    "name": "Orthodontic Braces",
+    "description": "Traditional metal braces for effective teeth alignment and bite correction over time.",
+    "image": "https://i.ibb.co.com/VcxwD422/imgi-4-treatment-braces-Dc-Ql-RMIK.jpg",
+    "cost": 3500,
+    "currency": "USD",
+    "duration": "1 months",
+    "requiresLoginToBook": true,
+    "whatToExpect": [
+      "Orthodontic evaluation",
+      "Brace installation",
+      "Regular adjustments",
+      "Long-term alignment correction"
+    ],
+    "category": "Orthodontics"
+  },
+  {
+    "id": "4",
+    "name": "Dental Filling",
+    "description": "Restore damaged teeth with durable composite fillings that match your natural tooth color.",
+    "image": "https://i.ibb.co.com/yBSFJcyY/imgi-5-treatment-filling-Dg-AOLKx-P.jpg",
+    "cost": 150,
+    "currency": "USD",
+    "duration": "30–60 mins",
+    "requiresLoginToBook": true,
+    "whatToExpect": [
+      "Cavity examination",
+      "Decay removal",
+      "Composite filling placement",
+      "Final bite check"
+    ],
+    "category": "Restorative Dentistry"
+  },
+  {
+    "id": "5",
+    "name": "Dental Implants",
+    "description": "Permanent tooth replacement solution that looks and functions like a natural tooth.",
+    "image": "https://i.ibb.co.com/Z1bB09C5/imgi-2-treatment-cleaning-DGuknr3-T.jpg",
+    "cost": 4200,
+    "currency": "USD",
+    "duration": "3–6 months",
+    "requiresLoginToBook": true,
+    "whatToExpect": [
+      "Initial consultation and 3D imaging",
+      "Implant placement procedure",
+      "Healing and bone integration period",
+      "Final crown placement and aftercare guidance"
+    ],
+    "category": "Implant Dentistry"
+  },
+  {
+    "id": "6",
+    "name": "Root Canal Treatment",
+    "description": "Pain-relieving treatment to remove infected pulp and save the natural tooth.",
+    "image": "https://i.ibb.co.com/BKGMLmZd/imgi-3-treatment-whitening-CRk-CRNJI.jpg",
+    "cost": 900,
+    "currency": "USD",
+    "duration": "1–2 hrs",
+    "requiresLoginToBook": true,
+    "whatToExpect": [
+      "X-ray and infection assessment",
+      "Removal of infected pulp",
+      "Cleaning and sealing of the tooth",
+      "Pain relief and post-treatment care instructions"
+    ],
+    "category": "Endodontics"
+  },
+  {
+    "id": "7",
+    "name": "Dental Crowns",
+    "description": "Custom-made crowns to restore strength, shape, and appearance of damaged teeth.",
+    "image": "https://i.ibb.co.com/VcxwD422/imgi-4-treatment-braces-Dc-Ql-RMIK.jpg",
+    "cost": 1200,
+    "currency": "USD",
+    "duration": "2 visits",
+    "requiresLoginToBook": true,
+    "whatToExpect": [
+      "Tooth examination and preparation",
+      "Digital or physical impression",
+      "Temporary crown placement",
+      "Permanent crown fitting and adjustment"
+    ],
+    "category": "Restorative Dentistry"
+  },
+  {
+    "id": "8",
+    "name": "Tooth Extraction",
+    "description": "Safe removal of severely damaged or impacted teeth using modern techniques.",
+    "image": "https://i.ibb.co.com/yBSFJcyY/imgi-5-treatment-filling-Dg-AOLKx-P.jpg",
+    "cost": 200,
+    "currency": "USD",
+    "duration": "30–45 mins",
+    "requiresLoginToBook": true,
+    "whatToExpect": [
+      "Pre-extraction examination",
+      "Local anesthesia for comfort",
+      "Safe tooth removal procedure",
+      "Post-extraction care and healing advice"
+    ],
+    "category": "Oral Surgery"
+  },
+  {
+    "id": "9",
+    "name": "Veneers",
+    "description": "Thin porcelain shells placed on the front of teeth to enhance appearance.",
+    "image": "https://i.ibb.co.com/Z1bB09C5/imgi-2-treatment-cleaning-DGuknr3-T.jpg",
+    "cost": 1800,
+    "currency": "USD",
+    "duration": "2–3 visits",
+    "requiresLoginToBook": true,
+    "whatToExpect": [
+      "Smile assessment and consultation",
+      "Tooth surface preparation",
+      "Custom veneer fabrication",
+      "Final bonding and smile enhancement"
+    ],
+    "category": "Cosmetic Dentistry"
+  },
+  {
+    "id": "10",
+    "name": "Invisalign Aligners",
+    "description": "Clear, removable aligners for discreet and comfortable teeth straightening.",
+    "image": "https://i.ibb.co.com/BKGMLmZd/imgi-3-treatment-whitening-CRk-CRNJI.jpg",
+    "cost": 4000,
+    "currency": "USD",
+    "duration": "6–18 months",
+    "requiresLoginToBook": true,
+    "whatToExpect": [
+      "Digital scan and treatment planning",
+      "Custom aligner fabrication",
+      "Regular aligner changes",
+      "Progress monitoring and final retention"
+    ],
+    "category": "Orthodontics"
+  },
+  {
+    "id": "11",
+    "name": "Gum Disease Treatment",
+    "description": "Comprehensive periodontal therapy to treat gum infections and prevent tooth loss.",
+    "image": "https://i.ibb.co.com/VcxwD422/imgi-4-treatment-braces-Dc-Ql-RMIK.jpg",
+    "cost": 600,
+    "currency": "USD",
+    "duration": "1–2 hrs",
+    "requiresLoginToBook": true,
+    "whatToExpect": [
+      "Comprehensive gum evaluation",
+      "Deep cleaning and plaque removal",
+      "Medication or therapy if needed",
+      "Ongoing maintenance and prevention guidance"
+    ],
+    "category": "Periodontics"
+  },
+  {
+    "id": "12",
+    "name": "Dental X-Ray",
+    "description": "High-resolution digital X-rays for accurate diagnosis and treatment planning.",
+    "image": "https://i.ibb.co.com/yBSFJcyY/imgi-5-treatment-filling-Dg-AOLKx-P.jpg",
+    "cost": 50,
+    "currency": "USD",
+    "duration": "10–15 mins",
+    "requiresLoginToBook": false,
+    "whatToExpect": [
+      "Quick and painless imaging process",
+      "Minimal radiation exposure",
+      "Immediate image review",
+      "Accurate diagnosis and treatment planning"
+    ],
+    "category": "Diagnostics"
+  },
+  {
+    "id": "13",
+    "name": "Pediatric Dentistry",
+    "description": "Gentle and friendly dental care designed specifically for children.",
+    "image": "https://i.ibb.co.com/VcxwD422/imgi-4-treatment-braces-Dc-Ql-RMIK.jpg",
+    "cost": 100,
+    "currency": "USD",
+    "duration": "30–45 mins",
+    "requiresLoginToBook": true,
+    "whatToExpect": [
+      "Child-friendly dental examination",
+      "Gentle cleaning and oral check-up",
+      "Preventive care education",
+      "Positive and comfortable dental experience"
+    ],
+    "category": "Pediatric Dentistry"
+  },
+  {
+    "id": "14",
+    "name": "Emergency Dental Care",
+    "description": "Immediate treatment for dental pain, trauma, or unexpected oral issues.",
+    "image": "https://i.ibb.co.com/yBSFJcyY/imgi-5-treatment-filling-Dg-AOLKx-P.jpg",
+    "cost": 300,
+    "currency": "USD",
+    "duration": "Varies",
+    "requiresLoginToBook": false,
+    "whatToExpect": [
+      "Immediate pain assessment",
+      "Urgent dental examination",
+      "Quick relief-focused treatment",
+      "Follow-up care recommendations"
+    ],
+    "category": "Emergency Care"
+  }
+]
